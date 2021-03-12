@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\BitCounting\\BitCounting.csproj": {}
+    "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\BitCounting\\BitCounting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\BitCounting\\BitCounting.csproj": {
+    "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\BitCounting\\BitCounting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\BitCounting\\BitCounting.csproj",
+        "projectUniqueName": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\BitCounting\\BitCounting.csproj",
         "projectName": "BitCounting",
-        "projectPath": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\BitCounting\\BitCounting.csproj",
+        "projectPath": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\BitCounting\\BitCounting.csproj",
         "packagesPath": "C:\\Users\\lfugiwara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\BitCounting\\obj\\",
+        "outputPath": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\BitCounting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lfugiwara\\AppData\\Roaming\\NuGet\\NuGet.Config",

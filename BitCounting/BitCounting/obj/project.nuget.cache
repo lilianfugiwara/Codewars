@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SJIKynRtZLQRRfastHdRdaJRusI2xNJ3m6nKV7B40LejWLfMP+d7kS7NOdvX6vSp9F5Eg9DN50/2uNqpzWJtw==",
+  "dgSpecHash": "c6/sRqpLP0d7BQFCBaiNslEcaxzg+g9nBSv7IKAwJhewOrLzVsas8NmjUFQsh/XQdBqGuBWk8l/wVBc3YkGuNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\BitCounting\\BitCounting.csproj",
+  "projectFilePath": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\BitCounting\\BitCounting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lfugiwara\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\lfugiwara\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
