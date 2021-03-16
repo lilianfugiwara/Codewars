@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\VowelCount\\VowelCount.csproj": {}
+    "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\VowelCount\\VowelCount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\VowelCount\\VowelCount.csproj": {
+    "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\VowelCount\\VowelCount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\VowelCount\\VowelCount.csproj",
+        "projectUniqueName": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\VowelCount\\VowelCount.csproj",
         "projectName": "VowelCount",
-        "projectPath": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\VowelCount\\VowelCount.csproj",
+        "projectPath": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\VowelCount\\VowelCount.csproj",
         "packagesPath": "C:\\Users\\lfugiwara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\VowelCount\\obj\\",
+        "outputPath": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\VowelCount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lfugiwara\\AppData\\Roaming\\NuGet\\NuGet.Config",

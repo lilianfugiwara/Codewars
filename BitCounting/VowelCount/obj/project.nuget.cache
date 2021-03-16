@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7XFJlvGC6vWcUfSsQP0Hk1q2fmDd/IlXA6pYb4QiYwI/ciLdBzlANu2K45zBvwu5dpH+wbrSDHTFtBrwXpXLg==",
+  "dgSpecHash": "yEB1Gb5h4KvKL3RGmpNWLvhGyIb9ZCrpbChnIblL7ok4LLVnJWIpYWPiyNkeNLVgCR5t4KSA6oWUlZBvTQDWyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lfugiwara\\source\\repos\\Codewars\\BitCounting\\VowelCount\\VowelCount.csproj",
+  "projectFilePath": "C:\\Users\\lfugiwara\\source\\repos\\CodeWars\\BitCounting\\VowelCount\\VowelCount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lfugiwara\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\lfugiwara\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
